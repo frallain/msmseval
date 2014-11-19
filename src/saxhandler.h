@@ -133,7 +133,7 @@ The End
 
 #include "expat.h"
 #include "fileHandle.h"
-#include <string>	// strcpm
+#include <cstring>	// strcpm
 #include <vector>
 
 /**
